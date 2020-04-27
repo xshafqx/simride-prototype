@@ -9,6 +9,9 @@ npm-debug.*
 *.orig.*
 web-build/
 web-report/
+*.idea
+*.vscode
+*.bak
 
 # macOS
 .DS_Store
